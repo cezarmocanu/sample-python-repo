@@ -48,3 +48,9 @@ git add [nume_fisier/path_fisier] # adauga un singur fisier
 ```
 git commit -m "Mesajul meu descriptiv"
 ```
+
+### Trimitem commiturile la cloud 
+```
+git push # cand exita branch-ul
+git push --set-upstream origin main # cand initializam proiectul
+```
