@@ -84,10 +84,17 @@ git branch -a
 ```bash
 git checkout [nume-branch]
 ```
+b### In caz ca branchul nu are modificarile din cloud dupa checkout facem git pull
 
-### In caz ca branchul nu are modificarile din cloud dupa checkout facem git pull
-
-
+### In caz de conflict, dai checkout pe branch-ul in care vrei sa faci merge (main de obicei) 
+```
+git checkout main
+git pull
+git checkout [branch-ul cu conflict]
+git merge main
+```
+### In Pycharm merg in editorul de commituri si dau pe resolve commit si combin fisierele in functie de necesitati
+### Dam un commit cu merge-ul (add, commit, push) dupa care se continua munca pe branch
 
 
 
