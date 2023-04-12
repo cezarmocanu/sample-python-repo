@@ -54,3 +54,10 @@ git commit -m "Mesajul meu descriptiv"
 git push # cand exita branch-ul
 git push --set-upstream origin main # cand initializam proiectul
 ```
+
+### Clonarea proiectului pe alta masina sau amsina existenta
+
+```
+git clone [url-ul de la git]
+git clone [url-ul de la git] [folderul-destinatie]
+```
