@@ -64,6 +64,33 @@ git clone [url-ul de la git] [folderul-destinatie]
 
 # Git Colab
 
+
+### Ia ultimele modificarei pe branch-ul pe care ma aflu
+### Sincronizeaza repo-ul cu repo-ul din cloud DESCARCAND modificarile
 ```
 git pull
 ```
+
+### Sincronizeaza repo-ul cu repo-ul din cloud fara sa descarce modificarile
+```bash
+git fetch
+```
+
+### Afiseaza toate branchurile locale
+```bash
+git branch -a
+```
+
+### Te muta pe un anumit branch
+```bash
+git checkout [nume-branch]
+```
+
+### In caz ca branchul nu are modificarile din cloud dupa checkout facem git pull
+
+
+
+
+
+
+
