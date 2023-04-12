@@ -70,7 +70,6 @@ git clone [url-ul de la git] [folderul-destinatie]
 ```
 git pull
 ```
-
 ### Sincronizeaza repo-ul cu repo-ul din cloud fara sa descarce modificarile
 ```bash
 git fetch
