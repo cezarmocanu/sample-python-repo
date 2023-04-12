@@ -63,3 +63,7 @@ git clone [url-ul de la git] [folderul-destinatie]
 ```
 
 # Git Colab
+
+```
+git pull
+```
