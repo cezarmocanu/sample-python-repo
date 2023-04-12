@@ -21,7 +21,7 @@ cd [folderul in care sa navighez]
 cd ..
 ```
 
-# Git
+# Git Base
 
 ### Repository - un proiect de git
 
@@ -61,3 +61,5 @@ git push --set-upstream origin main # cand initializam proiectul
 git clone [url-ul de la git]
 git clone [url-ul de la git] [folderul-destinatie]
 ```
+
+# Git Colab
