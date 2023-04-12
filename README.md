@@ -36,3 +36,15 @@ git init
 git remote add origin https://github.com/cezarmocanu/sample-python-repo.git
 ```
 
+### Adaugam in commit(cutie goala) fisierele modificate
+
+```
+git add . # adauga toate fisierele modificare
+git add [nume_fisier/path_fisier] # adauga un singur fisier
+```
+
+### Inchidem commitul (cutia cu fisiere) si ii punem o eticheta/un mesaj
+
+```
+git commit -m "Mesajul meu descriptiv"
+```
